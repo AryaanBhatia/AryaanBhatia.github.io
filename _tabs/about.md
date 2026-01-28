@@ -4,11 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
----
-layout: default
-title: Aryaan Atul Bhatia
----
-
 # Aryaan Atul Bhatia  
 **Actuarial Science · Data Science · Quantitative Analytics · Enterprise Technology**  
 📍 Sydney, Australia  
