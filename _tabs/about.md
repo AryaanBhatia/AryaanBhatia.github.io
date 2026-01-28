@@ -34,7 +34,6 @@ Comfortable operating across **research, modelling, engineering, finance, and en
 - Data structures, algorithms, and systems design  
 
 **Penrith Selective High School, NSW**  
-ATAR: **96.35**
 
 ---
 
