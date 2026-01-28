@@ -7,7 +7,7 @@ order: 4
 # Aryaan Atul Bhatia  
 **Actuarial Science · Data Science · Quantitative Analytics · Enterprise Technology**  
 📍 Sydney, Australia  
-📧 aryaan.b.work@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/raunak-srivast) · 💻 [GitHub](https://github.com/yourusername)
+📧 aryaan.b.work@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/aryaan-bhatia-863732217/) · 💻 [GitHub](https://github.com/AryaanBhatia)
 
 ---
 
