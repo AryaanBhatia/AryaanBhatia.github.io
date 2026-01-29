@@ -1,8 +1,11 @@
 ---
 title: My New Website
-date: 2026-01-29 23:15:00 +1000
-categories: [INTRO, FIRST]
-tags: [into]     # TAG names should always be lowercase
+date: 2026-01-29 00:00:00 +1000
+categories: [INTRO]
+tags: [introduction]     # TAG names should always be lowercase
+description: My first post and still trying to see how this all works.
+comments: false
+author: 1
 ---
 
 # Hello World
