@@ -1,8 +1,8 @@
 ---
-title: "My new website"
-date: 2025-01-29 00:00:00 +1000
-categories: [Introduction]
-tags: [introduction]
+title: My New Website
+date: 2026-01-29 21:00:00 +1000
+categories: [Intro, FirstPost]
+tags: [into]     # TAG names should always be lowercase
 ---
 
 # Hello World
