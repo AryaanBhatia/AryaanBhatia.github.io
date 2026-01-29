@@ -1,7 +1,7 @@
 ---
 title: My New Website
-date: 2026-01-29 20:45:00 +1100
-categories: [Intro, FirstPost]
+date: 2026-01-29 20:45:00 +1000
+categories: [INTRO, FIRST]
 tags: [into]     # TAG names should always be lowercase
 ---
 
