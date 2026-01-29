@@ -2,7 +2,7 @@
 title: "My new website"
 date: 2025-01-29 00:00:00 +1000
 categories: [Introduction]
-tags: [Introduction]
+tags: [introduction]
 ---
 
 # Hello World
