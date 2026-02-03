@@ -2,5 +2,5 @@
 
 ## License
 
-This work is published under [MIT][mit] License.
+This work is published under MIT License.
 
