@@ -47,7 +47,7 @@ d_2 = d_1 - \sigma\sqrt{T}
 \end{equation}
 $$
 
-## Greeks
+## The Greeks
 
 #### Delta:
 
