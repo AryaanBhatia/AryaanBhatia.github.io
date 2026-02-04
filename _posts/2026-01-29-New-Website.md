@@ -5,7 +5,7 @@ categories: [INTRO]
 tags: [introduction]     # TAG names should always be lowercase
 description: My first post and still trying to see how this all works.
 comments: false
-author: 1
+author: Aryaan
 ---
 
 # Hello World
