@@ -5,7 +5,7 @@ categories: [MATHEMATICS]
 tags: [mathematics, finance]     # TAG names should always be lowercase
 description: Step 1 in mathematical finance
 comments: false
-author: aryaan
+author: Aryaan
 math: true
 mermaid: true
 ---
