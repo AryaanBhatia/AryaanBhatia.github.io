@@ -136,6 +136,6 @@ One way that we can adjust the model to fit real life is to look at the volatili
 
 Here is an example of the correlation between the price of the S&P 500 and it's volatility. 
 
-![Desktop View](assets/img/posts/black-scholes/PriceVSVol.jpg){: width="972" height="589" .w-75 .normal}
+![Desktop View](assets/img/posts/black-scholes/PriceVSVol.JPG){: width="972" height="589" .w-75 .normal}
 
 ... More to come
